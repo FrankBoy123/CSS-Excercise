@@ -16,3 +16,20 @@
     background-color: hsl(120, 73%, 75%);
     font-weight: bold;
 }
+
+.Inverted,
+.Fancy {
+    font-family: Helvetica, "TImes New ROman", sans-serif;
+    font-size: 28px;
+}
+
+.Inverted {
+    background-color: black;
+    color: white;
+}
+
+.Fancy {
+    background-color: yellow;
+}
+
+
